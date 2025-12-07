@@ -119,7 +119,7 @@ cd backend
 yarn dev
 ```
 
-Backend runs on: http://localhost:5001
+Backend runs on: http://localhost:5000
 
 #### Terminal 2 - Frontend
 
@@ -183,7 +183,7 @@ No seed data required. The application starts with empty collections:
 ### Base URL
 
 ```
-http://localhost:5001/api
+http://localhost:5000/api
 ```
 
 ### RFPs
