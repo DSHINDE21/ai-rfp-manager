@@ -1,0 +1,23 @@
+{
+  "name": "rfp-management-system",
+  "version": "1.0.0",
+  "description": "AI-Powered RFP Management System",
+  "private": true,
+  "scripts": {
+    "install:all": "cd backend && yarn install && cd ../frontend && yarn install",
+    "dev:backend": "cd backend && yarn dev",
+    "dev:frontend": "cd frontend && yarn dev",
+    "build": "cd frontend && yarn build",
+    "test:backend": "cd backend && yarn test",
+    "test:frontend": "cd frontend && yarn test"
+  },
+  "keywords": [
+    "rfp",
+    "procurement",
+    "ai",
+    "mern"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
